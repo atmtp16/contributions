@@ -38,3 +38,38 @@ Sort donné aux productions et suivi des répercussions :
 
 ### Notre place le jour J
 L'équipe d'organisation se fondera dans la communauté des participants à la couleur du badge et une attention particulière sur les aspects logistiques près (genre les chaises, la sono,…)
+
+## Vision
+
+Esprit des personnes ne participants pas aux FO, mais présentes sur le site (vidéo, scribe, certains orga) :
+* rester physiquement à l’extérieur des cercles
+* discrétion, les interviewes (en option) peuvent avoir lieu avant l’ouverture et après la fermeture. C’est à l’équipe de Facilitation (@stéphane, @juliette, @Rime, @Michel) de valider, ou pas.
+* contribuer au fait que les participants soient uniquement concentrés sur ce qu’il se passe, pas de distraction pendant le FO. 
+
+Moments clés à capturer dans l’ordre chronologique a priori (les facilitateurs bossent encore dessus) :
+* discours d’accueil d’IBM
+* ouverture, introduction du FO, annonce des règles (cercle 200 personnes dehors vu d’en haut)
+* place de marché dehors toujours, avec les participants qui viennent un a un proposer leur sujet avec micro devant tout le monde
+* dispersion vers les ilots de discussion
+* mi-temps : cercle en milieu de journée pour faire le point (pas sur et ça reste à confirmer)
+* fermeture (cercle sans restitution) avec des interventions très courtes des participants volontaires pour exprimer leur perception de la journée
+* peut etre un cocktail (à valider par les facilitateurs @stéphane, @juliette, @Rime, @Michel) 
+
+Les principes et lois à capturer (pas facile, faisons preuve d’imagination 🙂 )
+* La loi des 2 pieds
+* Les 2 types d’attitudes (papillon ou abeille) et ce qui est résumé dans cette affiche
+AGILTOUR_2016_affiche_LOI_DU_FORUM-RVB-01.png
+
+Les lieux clé pendant le forum :
+* Salle de presse avec les scribers (cloud supervision)
+* les ilots (partout)
+* les stands petite faim (partout)
+
+l’ambiance :
+* capturer l’invisible : l’intelligence qui se dégage du groupe
+
+Les nouveaux besoins identifiés (personnes concernées @Anne-lise, @bertrand) :
+* accès à une fenêtre à l’étage ou bien au toit pour prise de vue d’en haut de l’ouverture
+* accès au placard du Studio pour stocker du petit matériel vidéo
+* chariot du prestataire pour faire une prise de vue particulière
+* slide sponsors
