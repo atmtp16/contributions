@@ -6,7 +6,8 @@ Bristol A5 | 50 x 3
 Marqueurs feutre | 4x30
 Pâte à fixe | 5 paquets
 [Board](https://github.com/atmtp16/contributions/blob/master/board.md) | 2 x(1mx2m)
-Pendules ou pomodoro | 12
+Pendules| 12
+[pomodoro](http://thehelpbyastrids.com/wp-content/uploads/2016/08/tomato-timer-0-60-minutes-62746-1-1.jpg) | 12
 Gong | 
 
 
