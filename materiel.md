@@ -10,7 +10,7 @@ Pendules| 12
 [pomodoro](http://thehelpbyastrids.com/wp-content/uploads/2016/08/tomato-timer-0-60-minutes-62746-1-1.jpg) | 12
 Gong | 
 Grille pour les règles 6 * 5 | 
-Support board (voir ce type de plaques http://www.eurefilm.com/equipement-d-exposition-7/panneaux-et-supports-79/panneaux-carlene-222/carlene-80x120-cm-blanc-l-unite-5204.html)| x2
+Support board (voir ce type de [plaques](http://www.eurefilm.com/equipement-d-exposition-7/panneaux-et-supports-79/panneaux-carlene-222/carlene-80x120-cm-blanc-l-unite-5204.html))| x2
 Paper board | x12
 
 
