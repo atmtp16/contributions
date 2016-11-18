@@ -1,6 +1,6 @@
 # Matériels
 
-Désignation | Prix | Lien | Quantité
+Désignation | Prix | Lien
 ----------  | ---- | ----
 pochette 4 feutres couleurs | 4,59 | [OD](http://www.officedepot.fr/catalog/catalogSku.do?id=1644422) | 20x4
 paper board | 59,9 | [OD](http://www.officedepot.fr/a/pb/Kit-essentiel-chevalet--1-chevalet--5-recharges-papier--6-marqueurs-niceday-70-L-x-100-l-cm/id=5910984&pr=/)
