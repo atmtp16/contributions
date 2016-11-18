@@ -5,7 +5,7 @@ Désignation | Qté
 Bristol A6 | 50
 Marqueurs feutre | 4x30
 Pâte à fixe | 5 paquets
-[Board](https://github.com/atmtp16/contributions/blob/master/board.md) | 1mx2m + 1mx2m
+[Board](https://github.com/atmtp16/contributions/blob/master/board.md) | 2 x(1mx2m)
 Pendules | 12
 Gong | 
 
