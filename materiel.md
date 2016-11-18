@@ -3,6 +3,9 @@
 Désignation | Qté
 ----------  | ---- 
 Bristol A6 | 50
+Marqueurs feutre | 4x30
+Pâte à fixe | 5 paquets
+Board | 1mx2m + 1mx2m
 
 
 Désignation | Prix | Lien
