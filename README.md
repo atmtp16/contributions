@@ -13,8 +13,8 @@
 * Juliette Palumbo - (Facilation du Forum Ouvert)
 * Stéphane Langlois - (Facilation du Forum Ouvert)
 * Raphaël Pierquin - (Co-constructeur du Forum Ouvert)
-* Michel Thing Leoh - (Co-constructeur du Forum Ouvert)
-* Rime Louhaichi - (Co-constructeur du Forum Ouvert)
+* Michel Thing Leoh - (Co-constructeur du Forum Ouvert) - s'est retiré
+* Rime Louhaichi - (Co-constructeur du Forum Ouvert) - s'est retirée
 
 ## Intention des organisateurs
 
@@ -30,7 +30,6 @@ L’équipe aura le sentiment d’avoir réussi son pari :
 * s'il se dégage un sentiment positif sur les ROTI (j'ai appris ou pas, qualité ou pas, fun ou pas, j'ai bien mangé ou pas, j'ai passé un bon moment ou pas )
 
 ### Nos attendus en matière d'exploitation des résultats 
-
 Sort donné aux productions et suivi des répercussions :
 
 * Produire et mettre à disposition en téléchargement les scribes et productions graphiques.
@@ -40,7 +39,6 @@ Sort donné aux productions et suivi des répercussions :
 L'équipe d'organisation se fondera dans la communauté des participants à la couleur du badge et une attention particulière sur les aspects logistiques près (genre les chaises, la sono,…)
 
 ## Vision
-
 Esprit des personnes ne participants pas aux FO, mais présentes sur le site (vidéo, scribe, certains orga) :
 * rester physiquement à l’extérieur des cercles
 * discrétion, les interviewes (en option) peuvent avoir lieu avant l’ouverture et après la fermeture. C’est à l’équipe de Facilitation (@stéphane, @juliette, @Rime, @Michel) de valider, ou pas.
