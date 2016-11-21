@@ -28,6 +28,8 @@ Hall 2 | 2 | 1 | 0
 Camargues_6 | 6 | 3 | 0
 
 ## Salle de presse
+*le cloud*
+
 Îlot | Règles | Kakémonos | kaké print
 ---- | ------ | --------- | ----------
 Hall | 0 | 0 | 1
