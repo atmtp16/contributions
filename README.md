@@ -13,8 +13,8 @@
 * Juliette Palumbo - (Facilation du Forum Ouvert)
 * Stéphane Langlois - (Facilation du Forum Ouvert)
 * Raphaël Pierquin - (Co-constructeur du Forum Ouvert)
-~~~* Michel Thing Leoh - (Co-constructeur du Forum Ouvert)~~~ - s'est retiré
-~~~* Rime Louhaichi - (Co-constructeur du Forum Ouvert)~~~ - s'est retirée
+* ~~~Michel Thing Leoh - (Co-constructeur du Forum Ouvert)~~~ - s'est retiré
+* ~~~Rime Louhaichi - (Co-constructeur du Forum Ouvert)~~~ - s'est retirée
 
 ## Intention des organisateurs
 
