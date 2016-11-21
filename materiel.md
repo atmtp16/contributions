@@ -9,7 +9,7 @@ Pâte à fixe | 5 paquets
 Pendules| 12 sauf si la solution ppt fonctionne. 
 [pomodoro](http://thehelpbyastrids.com/wp-content/uploads/2016/08/tomato-timer-0-60-minutes-62746-1-1.jpg) | 12
 Gong | luig peut apporter jusqu'à 4 cymbales. 
-Grille pour les règles 6 * 5 | 
+Grille pour les règles 6 * 5 | quelle unité ? 
 Support board (voir ce type de [plaques](http://www.eurefilm.com/equipement-d-exposition-7/panneaux-et-supports-79/panneaux-carlene-222/carlene-80x120-cm-blanc-l-unite-5204.html))| x10
 Paper board | x12
 
