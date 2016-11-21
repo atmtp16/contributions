@@ -1,12 +1,12 @@
 # Gestion des espaces
 
-[Plan]
+[Plan](https://raw.githubusercontent.com/atmtp16/contributions/master/media/plan.jpeg)
 
 ## Place du marché
 *Hall d'entrée après les portiques*
 
 Îlot | Règles | Kakémonos | kaké print
--- | -- | -- | --
+---- | ------ | --------- | ----------
 Hall | 6 | 3 | 0
 Board | 0 | 0 | 1
 
