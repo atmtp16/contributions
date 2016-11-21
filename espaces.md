@@ -2,7 +2,7 @@
 - 2 cercles - 1 Jeu - (3 kakemonos)
 
 ### Camargue 6
-- 1 Cercle - (2 kakemonos)
+- 1 Cercle - (3 kakemonos)
 
 # Innovation
 - 2 cercles - 1 jeu - (3 kakemonos)
