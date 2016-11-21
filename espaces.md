@@ -24,6 +24,7 @@
 
 # salle de marché
 - 1 affiche (1 Kakémono imprimé)
+- 
 
 # salle de presse
 - 1 affiche (1 Kakémono imprimé)
