@@ -6,7 +6,8 @@
 * Lieu : [IBM France à Montpellier](https://www.openstreetmap.org/search?query=ibm%20montpellier#map=16/43.6172/3.9075)
 * Site : http://agiletour-montpellier.fr
 
-* [Tâches en cours](https://github.com/atmtp16/contributions/projects/1)
+* [Tâches en cours](https://github.com/atmtp16/contributions/projects/1
+* [Le plan](https://wireframe.cc/UULUVC)
 
 ## Équipe
 
