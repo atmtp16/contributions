@@ -19,3 +19,12 @@
 # Salle de marché
 - 1 cercle - 1 jeu - (3 kakemonos)
 
+# accueil
+- 1 affiche (1 Kakémono imprimé)
+
+# salle de marché
+- 1 affiche (1 Kakémono imprimé)
+
+# salle de presse
+- 1 affiche (1 Kakémono imprimé)
+
