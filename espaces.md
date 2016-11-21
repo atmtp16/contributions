@@ -1,31 +1,47 @@
-# Camargues
-- 2 cercles - 1 Jeu - (3 kakemonos)
+# Gestion des espaces
 
-### Camargue 6
-- 1 Cercle - (3 kakemonos)
+[Plan]
 
-# Innovation
-- 2 cercles - 1 jeu - (3 kakemonos)
+## Place du marché
+*Hall d'entrée après les portiques*
 
-### Video
-- 1 cercle - 1 jeu - (3 kakemonos)
+Îlot | Règles | Kakémonos | kaké print
+-- | -- | -- | --
+Hall | 6 | 3 | 0
+Board | 0 | 0 | 1
 
-# Studio
-- 2 cercles - 1 Jeu
+## Alpilles
+*à gauche de la place du marché*
 
-# Alpilles
-- 2 cercles - 1 Jeu - (3 kakemonos)
+Îlot | Règles | Kakémonos | kaké print
+-- | -- | -- | --
+Hall 1 | 4 | 2 | 0
+Hall 2 | 2 | 1 | 0
 
-# Salle de marché
-- 1 cercle - 1 jeu - (3 kakemonos)
+## Camargues
+*à droite de la place du marché*
 
-# accueil
-- 1 affiche (1 Kakémono imprimé)
+Îlot | Règles | Kakémonos | kaké print
+-- | -- | -- | --
+Hall 1 | 4 | 2 | 0
+Hall 2 | 2 | 1 | 0
+Camargues_6 | 6 | 3 | 0
 
-# salle de marché
-- 1 affiche (1 Kakémono imprimé)
-- 
+## Salle de presse
+Îlot | Règles | Kakémonos | kaké print
+-- | -- | -- | --
+Hall | 0 | 0 | 1
 
-# salle de presse
-- 1 affiche (1 Kakémono imprimé)
+## Innovation
+Îlot | Règles | Kakémonos | kaké print
+-- | -- | -- | --
+Hall 1 | 4 | 2 | 0
+Hall 2 | 2 | 1 | 0
+Vidéo | 6 | 3 | 0
 
+## Studio
+Îlot | Règles | Kakémonos | kaké print
+-- | -- | -- | --
+Hall 1 | 6 | 0 | 0
+Hall 2 | 6 | 0 | 0
+Vidéo | 6 | 3 | 0
