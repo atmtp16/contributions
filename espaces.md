@@ -1,6 +1,7 @@
 # Gestion des espaces
 
-[Plan](https://raw.githubusercontent.com/atmtp16/contributions/master/media/plan.jpeg)
+* [Plan](https://raw.githubusercontent.com/atmtp16/contributions/master/media/plan.jpeg)
+* [Visite](http://www.ibm.com/ibm/clientcenter/tour/montpellier/tour.html?startscene=6&startactions=lookat(140.72,13.15,120,0,0);)
 
 ## Place du marché
 *Hall d'entrée après les portiques*
